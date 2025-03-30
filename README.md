@@ -1,2 +1,2 @@
 # November
-Study Group
+Algorithm Study Group
