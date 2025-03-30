@@ -1,0 +1,2 @@
+# November
+Study Group
