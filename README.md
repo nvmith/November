@@ -16,6 +16,7 @@ Algorithm Study Group
       
   <tr>
     <td>2주차</td>
-    <td><s>문제 들</td>
+    <td>BFS</td>
+    <td>토마토2</td>
   </tr>
 </table>
