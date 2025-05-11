@@ -9,7 +9,9 @@ Algorithm Study Group
   <tr>
     <td>주차</td>
     <td>분류</td>
-    <td>문제명</td>
+    <td>문제1</td>
+    <td>문제2</td>
+    <td>문제3</td>
   </tr>
   <tr>
     <td>1주차</td>
