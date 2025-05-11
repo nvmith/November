@@ -8,7 +8,7 @@ Algorithm Study Group
 <table>
   <tr>
     <td>1주차</td>
-    <td><s>프로그래머스 다리위를 지나는 트럭, </td>
+    <td>프로그래머스 다리위를 지나는 트럭, </td>
   </tr>
       
   <tr>
