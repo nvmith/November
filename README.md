@@ -15,7 +15,7 @@ Algorithm Study Group
     <td>1주차</td>
     <td>시즌1</td>
     <td>
-      프로그래머스 다리위를 지나는 트럭
+      프로그래머스 다리위를 지나는 트럭<br>
       백준 토마토
     </td>
   </tr>
