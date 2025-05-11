@@ -7,6 +7,11 @@ Algorithm Study Group
 
 <table>
   <tr>
+    <td>주차</td>
+    <td>분류</td>
+    <td>문제명</td>
+  </tr>
+  <tr>
     <td>1주차</td>
     <td>시즌1</td>
     <td>
