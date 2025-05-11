@@ -16,7 +16,6 @@ Algorithm Study Group
     <td>시즌1</td>
     <td>
       프로그래머스 다리위를 지나는 트럭
-      
     </td>
     <td>
     백준 토마토
