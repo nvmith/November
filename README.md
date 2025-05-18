@@ -8,7 +8,7 @@ Algorithm Study Group
 |주차|분류|문제1|문제2|문제3| 
 |:---:|:---:|:---:|:---:|:---:|
 |1-6주차|[기존 문제 정리](/pre_study)||||
-|7주차|BFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> 링크 </A>|[BOJ문제1](https://github.com/nvmith/November/tree/main/%EB%A6%AC%EB%89%B4%EC%96%BC%20%EC%9D%B4%EC%A0%84%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C)|BOJ문제1|
+|7주차|BFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> 프로그래머스 타겟 넘버 </A>|[BOJ문제1](https://github.com/nvmith/November/tree/main/%EB%A6%AC%EB%89%B4%EC%96%BC%20%EC%9D%B4%EC%A0%84%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C)|BOJ문제1|
 |8주차|다익스트라|BOJ어떤문제|BOJ문제1|BOJ문제1|
 
 -------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ https://github.com/soo5717/2021-Algorithm-Study/tree/main
 |석훈|0|
 |용주|1시간|
 
-- 지원금 10000원에 1/2스택 💸
+- 지원금 10,000원에 1/2스택 💸
 
 ## 결석
 
@@ -61,7 +61,7 @@ https://github.com/soo5717/2021-Algorithm-Study/tree/main
 ### 학습 및 취업 관련:
 - 노 패널티 결석
 
-- 지원금 30000원에 1스택 💸
+- 지원금 30,000원에 1스택 💸
 
 ## 방출
 
