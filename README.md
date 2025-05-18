@@ -8,8 +8,8 @@ Algorithm Study Group
 |주차|분류|문제1|문제2|문제3| 
 |:---:|:---:|:---:|:---:|:---:|
 |1-6주차|[기존 문제 정리](/pre_study)||||
-|7주차|BFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> 프로그래머스 타겟 넘버 </A>|[BOJ문제1](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|BOJ10026|
-|8주차|다익스트라|BOJ어떤문제|BOJ문제1|BOJ문제1|
+|7주차|BFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> 프로그래머스 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
+
 
 -------------------------------------------------------------------------------
 매주 알고리즘 공부 및 문제 풀이
