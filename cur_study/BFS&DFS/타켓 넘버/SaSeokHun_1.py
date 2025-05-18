@@ -67,7 +67,3 @@ def solution2(numbers, target):
     numbers = deque(numbers)
     ans = bfs(numbers, target)
     return ans
-
-
-print(solution1([1, 1, 1, 1, 1], 3))
-print(solution2([1, 1, 1, 1, 1], 3))
