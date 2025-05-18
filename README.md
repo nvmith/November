@@ -68,3 +68,6 @@ https://github.com/soo5717/2021-Algorithm-Study/tree/main
 
 - 3스택에 최후의 변론
 - 의가 상하지 않는다.
+
+## 지원금 내역
+- 2025.05.18 (승우 결석)
