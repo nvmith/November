@@ -13,7 +13,7 @@ Algorithm Study Group
 |:---:|:---:|:---:|:---:|:---:|
 |1-6주차|[기존 문제 정리](/pre_study)||||
 |7주차|회의| | | |
-|8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
+|8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
 |9주차|트리||||
 
 <br>
