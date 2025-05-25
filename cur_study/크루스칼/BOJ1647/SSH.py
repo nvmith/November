@@ -1,6 +1,7 @@
 import sys
 
 
+
 def find(p, x):
     if p[x] != x:
         p[x] = find(p, p[x])
@@ -15,6 +16,7 @@ def union(p, x, y):
         parent[find_b] = find_a
     else:
         parent[find_a] = find_b
+
 
 
 N, M = map(int, sys.stdin.readline().rstrip().split())
