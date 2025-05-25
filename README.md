@@ -1,13 +1,14 @@
 # November
 Algorithm Study Group
-------------------------------------------------------------------------------
-## 🙋‍♂️ Members
-|[박강현](https://github.com/Dev-PKH)|[사석훈](https://github.com/Clear-head)|[지용주](https://github.com/dksldhodkseho)|[최이승우](https://github.com/nvmith)|
 
-### RULE
-- <s>주마다 1, 2 문제씩 풀어서 준비해오기 (풀어오지 못해도 좋은 문제라면 허용)
-- 피치 못할 이유없이 불참시 모두에게 음료사기</s> (6주차 부터 변경)
+<br>
 
+# 🙋‍♂️ Members
+| [박강현](https://github.com/Dev-PKH) | [사석훈](https://github.com/Clear-head) | [지용주](https://github.com/dksldhodkseho) | [최이승우](https://github.com/nvmith) |
+
+<br>
+
+# 📜 History
 |주차|분류|문제1|문제2|문제3| 
 |:---:|:---:|:---:|:---:|:---:|
 |1-6주차|[기존 문제 정리](/pre_study)||||
@@ -15,8 +16,13 @@ Algorithm Study Group
 |8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
 |9주차|트리||||
 
+<br>
 
--------------------------------------------------------------------------------
+# 🤙 RULE
+- <s>주마다 1, 2 문제씩 풀어서 준비해오기 (풀어오지 못해도 좋은 문제라면 허용)
+- 피치 못할 이유없이 불참시 모두에게 음료사기</s> (6주차 부터 변경)
+
+
 매주 알고리즘 공부 및 문제 풀이
 > 주마다 알고리즘을 선정하여 공부
 > 해당 알고리즘에 관련된 문제 풀이
@@ -27,12 +33,8 @@ Algorithm Study Group
 > 방식은 위와 동일
 
 
-https://github.com/Heongilee/CodingTestStudy?tab=readme-ov-file
-https://github.com/Study-CodingTest/Study/tree/main
-https://github.com/soo5717/2021-Algorithm-Study/tree/main
+<br>
 
-
--------------------------------------------------------------------------------
 ## 지각
 
 - 공용 늦어질만한 시간(감자) -> 20분 🥔
