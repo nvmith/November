@@ -1,5 +1,8 @@
 # November
 Algorithm Study Group
+------------------------------------------------------------------------------
+## 🙋‍♂️ Members
+|[박강현](https://github.com/Dev-PKH)|[사석훈](https://github.com/Clear-head)|[지용주](https://github.com/dksldhodkseho)|[최이승우](https://github.com/nvmith)|
 
 ### RULE
 - <s>주마다 1, 2 문제씩 풀어서 준비해오기 (풀어오지 못해도 좋은 문제라면 허용)
