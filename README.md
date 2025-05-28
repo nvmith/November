@@ -1,7 +1,7 @@
 # November
 Algorithm Study Group
 
-# 태그 방식
+# Commit Rule
 - docs: 문서 생성 및 수정 (ReadME)
 - demo: 초기 완성 코드
 - refactor : 코드 리뷰 후 최적화 코드
