@@ -1,16 +1,11 @@
 # November
 Algorithm Study Group
 
-# Commit Rule
-- docs: 문서 생성 및 수정 (ReadME)
-- demo: 초기 완성 코드
-- refactor : 코드 리뷰 후 최적화 코드
-
-
 <br>
 
 # 🙋‍♂️ Members
 | [박강현](https://github.com/Dev-PKH) | [사석훈](https://github.com/Clear-head) | [지용주](https://github.com/dksldhodkseho) | [최이승우](https://github.com/nvmith) |
+|---|---|---|---|
 
 <br>
 
@@ -23,6 +18,13 @@ Algorithm Study Group
 |9주차|Kruskal|[BOJ1647](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ1647)|[BOJ14621](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ14621)|  |
 |10주차|BinarySearch|[BOJ2512](https://www.acmicpc.net/problem/2512)|[BOJ3020](https://www.acmicpc.net/problem/3020)||
 |11주차|복습주간|||
+
+<br>
+
+# Commit Rule
+- docs: 문서 생성 및 수정 (ReadME)
+- demo: 초기 완성 코드
+- refactor : 코드 리뷰 후 최적화 코드
 
 <br>
 
