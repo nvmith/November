@@ -17,7 +17,7 @@ Algorithm Study Group
 |8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
 |9주차|Kruskal|[BOJ1647](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ1647)|[BOJ14621](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ14621)|  |
 |10주차|BinarySearch|[BOJ2512](https://www.acmicpc.net/problem/2512)|[BOJ3020](https://www.acmicpc.net/problem/3020)||
-|11주차|복습주간|||
+|11주차|복습주간|[BOJ1303](https://www.acmicpc.net/problem/1303)|[BOJ6497](https://www.acmicpc.net/problem/6497)|[BOJ2110](https://www.acmicpc.net/problem/6497)|
 
 <br>
 
