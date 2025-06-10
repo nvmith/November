@@ -21,13 +21,6 @@ Algorithm Study Group
 
 <br>
 
-# Commit Rule
-- docs: 문서 생성 및 수정 (ReadME)
-- demo: 초기 완성 코드
-- refactor : 코드 리뷰 후 최적화 코드
-
-<br>
-
 # 🤙 RULE
 매주 알고리즘 공부 및 문제 풀이
 > 주마다 알고리즘을 선정하여 공부
@@ -37,6 +30,13 @@ Algorithm Study Group
 4주차마다 알고리즘 복습 문제 풀이
 >근 3주동안 공부한 알고리즘을 위주로 문제를 풀이
 > 방식은 위와 동일
+
+<br>
+
+# Commit Rule
+- docs: 문서 생성 및 수정 (ReadME)
+- demo: 초기 완성 코드
+- refactor : 코드 리뷰 후 최적화 코드
 
 
 <br>
