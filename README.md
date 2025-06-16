@@ -18,6 +18,7 @@ Algorithm Study Group
 |9주차|Kruskal|[BOJ1647](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ1647)|[BOJ14621](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ14621)|  |
 |10주차|BinarySearch|[BOJ2512](https://www.acmicpc.net/problem/2512)|[BOJ3020](https://www.acmicpc.net/problem/3020)||
 |11주차|복습주간|[BFS/DFS] [BOJ1303](https://www.acmicpc.net/problem/1303)|[Kruskal] [BOJ6497](https://www.acmicpc.net/problem/6497)|[BinarySearch] [BOJ2110](https://www.acmicpc.net/problem/6497)|
+|12주차|DivideAndConquer|[BOJ2630](https://www.acmicpc.net/problem/2630)|[BOJ16974](https://www.acmicpc.net/problem/16974)||
 
 <br>
 
