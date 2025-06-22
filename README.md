@@ -19,6 +19,8 @@ Algorithm Study Group
 |10주차|BinarySearch|[BOJ2512](https://www.acmicpc.net/problem/2512)|[BOJ3020](https://www.acmicpc.net/problem/3020)||
 |11주차|복습주간|[BFS/DFS] [BOJ1303](https://www.acmicpc.net/problem/1303)|[Kruskal] [BOJ6497](https://www.acmicpc.net/problem/6497)|[BinarySearch] [BOJ2110](https://www.acmicpc.net/problem/6497)|
 |12주차|DivideAndConquer|[BOJ2630](https://www.acmicpc.net/problem/2630)|[BOJ16974](https://www.acmicpc.net/problem/16974)||
+|13주차|PriorityQueue|[BOJ15903](./cur_study/PriorityQueue/BOJ15903)|[BOJ13975](./cur_study/PriorityQueue/BOJ13975)|[BOJ1655](./cur_study/PriorityQueue/BOJ1655)|
+
 
 <br>
 
