@@ -16,9 +16,9 @@ Algorithm Study Group
 |7주차|회의| | | |
 |8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
 |9주차|Kruskal|[BOJ1647](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ1647)|[BOJ14621](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ14621)|  |
-|10주차|BinarySearch|[BOJ2512](https://www.acmicpc.net/problem/2512)|[BOJ3020](https://www.acmicpc.net/problem/3020)||
-|11주차|복습주간|[BFS/DFS] [BOJ1303](https://www.acmicpc.net/problem/1303)|[Kruskal] [BOJ6497](https://www.acmicpc.net/problem/6497)|[BinarySearch] [BOJ2110](https://www.acmicpc.net/problem/6497)|
-|12주차|DivideAndConquer|[BOJ2630](https://www.acmicpc.net/problem/2630)|[BOJ16974](https://www.acmicpc.net/problem/16974)||
+|10주차|BinarySearch|[BOJ2512](./cur_study/BinarySearch/BOJ2512)|[BOJ3020](./cur_study/BinarySearch/BOJ3020)||
+|11주차|복습주간|[BFS/DFS] [BOJ1303](./cur_study/BFS&DFS/BOJ1303)|[Kruskal] [BOJ6497](./cur_study/Kruskal/BOJ6497)|[BinarySearch] [BOJ2110](./cur_study/BinarySearch/BOJ2110)|
+|12주차|DivideAndConquer|[BOJ2630](./cur_study/DivideAndConquer/BOJ2630)|[BOJ16974](./cur_study/DivideAndConquer/BOJ16974)||
 |13주차|PriorityQueue|[BOJ15903](./cur_study/PriorityQueue/BOJ15903)|[BOJ13975](./cur_study/PriorityQueue/BOJ13975)|[BOJ1655](./cur_study/PriorityQueue/BOJ1655)|
 
 
