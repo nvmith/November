@@ -12,14 +12,15 @@ Algorithm Study Group
 # 📜 History
 |주차|분류|문제1|문제2|문제3| 
 |:---:|:---:|:---:|:---:|:---:|
-|1-6주차|[기존 문제 정리](/pre_study)||||
+|1-6주차|[기존 문제 정리](/pre_study)|  |  |  |
 |7주차|회의| | | |
 |8주차|BFS/DFS|<A href="https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84"> Programmers 타겟 넘버 </A>|[BOJ10026](https://github.com/nvmith/November/tree/main/cur_study/BFS%26DFS/BOJ10026)|  |
 |9주차|Kruskal|[BOJ1647](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ1647)|[BOJ14621](https://github.com/nvmith/November/tree/main/cur_study/Kruskal/BOJ14621)|  |
-|10주차|BinarySearch|[BOJ2512](./cur_study/BinarySearch/BOJ2512)|[BOJ3020](./cur_study/BinarySearch/BOJ3020)||
+|10주차|BinarySearch|[BOJ2512](./cur_study/BinarySearch/BOJ2512)|[BOJ3020](./cur_study/BinarySearch/BOJ3020)|  |
 |11주차|복습주간|[BFS/DFS] [BOJ1303](./cur_study/BFS&DFS/BOJ1303)|[Kruskal] [BOJ6497](./cur_study/Kruskal/BOJ6497)|[BinarySearch] [BOJ2110](./cur_study/BinarySearch/BOJ2110)|
-|12주차|DivideAndConquer|[BOJ2630](./cur_study/DivideAndConquer/BOJ2630)|[BOJ16974](./cur_study/DivideAndConquer/BOJ16974)||
+|12주차|DivideAndConquer|[BOJ2630](./cur_study/DivideAndConquer/BOJ2630)|[BOJ16974](./cur_study/DivideAndConquer/BOJ16974)|  |
 |13주차|PriorityQueue|[BOJ15903](./cur_study/PriorityQueue/BOJ15903)|[BOJ13975](./cur_study/PriorityQueue/BOJ13975)|[BOJ1655](./cur_study/PriorityQueue/BOJ1655)|
+|14주차|BackTracking|[BOJ5568](././cur_study/BackTracking/BOJ5568)|  |  |
 
 
 <br>
@@ -47,6 +48,7 @@ Algorithm Study Group
 ## 지각
 
 - 공용 늦어질만한 시간(감자) -> 20분 🥔
+- 지원금 10,000원에 1/3스택 💸
 
 ### 학교
 |이름|지각 허용 시간|
@@ -54,7 +56,7 @@ Algorithm Study Group
 |강현|0|
 |승우|5분|
 |석훈|10분|
-|용주|1시간|
+|용주|차가 있으면 10분 / 없으면 1시간|
 
 ### 노벰버
 |이름|지각 허용 시간|
@@ -62,11 +64,12 @@ Algorithm Study Group
 |강현|20분|
 |승우|5분|
 |석훈|0|
-|용주|1시간|
+|용주|차가 있으면 10분 / 없으면 1시간|
 
-- 지원금 10,000원에 1/2스택 💸
+
 
 ## 결석
+- 지원금 30,000원에 1스택 💸
 
 ### 병결:
 - 술 이슈는 어림도 없지 🍺🚫
@@ -75,15 +78,13 @@ Algorithm Study Group
 - 불가능한 경우 양심의 영역
 
 ### 학습 및 취업 관련:
-- 노 패널티 결석
-- 노 패널티 경조사
-
-- 지원금 30,000원에 1스택 💸
+- 노 패널티
 
 ## 방출
-
 - 3스택에 최후의 변론
 - 의가 상하지 않는다.
 
 ## 지원금 내역
 - 2025.05.18 (승우 결석)
+- 2025.06.21 (석훈 결석)
+- 2025.06.29 (석훈 청문회)
