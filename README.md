@@ -4,7 +4,7 @@ Algorithm Study Group
 <br>
 
 # 🙋‍♂️ Members
-| [박강현](https://github.com/Dev-PKH) | [사석훈](https://github.com/Clear-head) | [지용주](https://github.com/dksldhodkseho) | [최이승우](https://github.com/nvmith) |
+| [**박강현**](https://github.com/Dev-PKH) | [**사석훈**](https://github.com/Clear-head) | [**지용주**](https://github.com/dksldhodkseho) | [**최이승우**](https://github.com/nvmith) |
 |---|---|---|---|
 
 <br>
@@ -20,7 +20,7 @@ Algorithm Study Group
 |11주차|복습주간|[BFS/DFS] [BOJ1303](./cur_study/BFS&DFS/BOJ1303)|[Kruskal] [BOJ6497](./cur_study/Kruskal/BOJ6497)|[BinarySearch] [BOJ2110](./cur_study/BinarySearch/BOJ2110)|
 |12주차|DivideAndConquer|[BOJ2630](./cur_study/DivideAndConquer/BOJ2630)|[BOJ16974](./cur_study/DivideAndConquer/BOJ16974)|  |
 |13주차|PriorityQueue|[BOJ15903](./cur_study/PriorityQueue/BOJ15903)|[BOJ13975](./cur_study/PriorityQueue/BOJ13975)|[BOJ1655](./cur_study/PriorityQueue/BOJ1655)|
-|14주차|BackTracking|[BOJ5568](././cur_study/BackTracking/BOJ5568)|  |  |
+|14주차|BackTracking|[BOJ5568](./cur_study/BackTracking/BOJ5568)|[BOJ1038](./cur_study/BackTracking/BOJ1038)  |  |
 
 
 <br>
