@@ -21,7 +21,7 @@ Algorithm Study Group
 |12주차|DivideAndConquer|[BOJ2630](./cur_study/DivideAndConquer/BOJ2630)|[BOJ16974](./cur_study/DivideAndConquer/BOJ16974)|  |
 |13주차|PriorityQueue|[BOJ15903](./cur_study/PriorityQueue/BOJ15903)|[BOJ13975](./cur_study/PriorityQueue/BOJ13975)|[BOJ1655](./cur_study/PriorityQueue/BOJ1655)|
 |14주차|BackTracking|[BOJ5568](./cur_study/BackTracking/BOJ5568)|[BOJ1038](./cur_study/BackTracking/BOJ1038)  |  |
-
+|11주차|복습주간|[DivideAndConquer] [BOJ31455](./cur_study/DivideAndConquer/BOJ31455)|[PriorityQueue] [BOJ23254](./cur_study/PriorityQueue/BOJ23254)|[BackTracking] [BOJ7490](./cur_study/BackTracking/BOJ7490)|
 
 <br>
 
@@ -37,13 +37,26 @@ Algorithm Study Group
 
 <br>
 
-# Commit Rule
+## Commit Rule
 - docs: 문서 생성 및 수정 (ReadME)
 - demo: 초기 완성 코드
 - refactor : 코드 리뷰 후 최적화 코드
 
 
 <br>
+
+
+## 그룹장
+- 매달 한 번씩 당선, 연임 가능
+- README, 후기, 일정 관리등 잡다한 일 담당
+- 문제 없는 범위 내에서 권력 행사 가능
+- 탄핵 가능
+
+|**역대 그룹장**|**이름**|
+|:---:|:---:|
+|1대 그룹장|최이승우|
+|2대 그룹장|박강현|
+|3, 4대 그룹장|사석훈|
 
 ## 지각
 
