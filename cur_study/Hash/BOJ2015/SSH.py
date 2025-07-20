@@ -13,5 +13,4 @@ for i in a:
     ans += nums.get(prefix_sum - k, 0)
     nums[prefix_sum] = nums.get(prefix_sum, 0) + 1
 
-
 print(ans)
