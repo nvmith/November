@@ -24,6 +24,8 @@ Algorithm Study Group
 |15주차|복습주간|[DivideAndConquer] [BOJ31455](./cur_study/DivideAndConquer/BOJ31455)|[PriorityQueue] [BOJ23254](./cur_study/PriorityQueue/BOJ23254)|[BackTracking] [BOJ7490](./cur_study/BackTracking/BOJ7490)|
 |16주차|Recursion|[BOJ5604](./cur_study/Recursion/BOJ5604)|[BOJ12919](./cur_study/Recursion/BOJ12919)|  |
 |17주차|Hash|[BOJ2015](./cur_study/Hash/BOJ2015)|[BOJ14171](./cur_study/Hash/BOJ14171)|  |
+|18주차|PrefixSum|[BOJ1749](./cur_study/PrefixSum/BOJ1749)|[BOJ2559](./cur_study/PrefixSum/BOJ2559)|  |
+|19주차|복습주간|  |  |  |
 
 <br>
 
@@ -104,3 +106,4 @@ Algorithm Study Group
 - 2025.05.18 (승우 결석)
 - 2025.06.21 (석훈 결석)
 - 2025.06.29 (석훈 청문회)
+- 2025.08.03 (지용주 지각)
