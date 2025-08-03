@@ -25,7 +25,7 @@ Algorithm Study Group
 |16주차|Recursion|[BOJ5604](./cur_study/Recursion/BOJ5604)|[BOJ12919](./cur_study/Recursion/BOJ12919)|  |
 |17주차|Hash|[BOJ2015](./cur_study/Hash/BOJ2015)|[BOJ14171](./cur_study/Hash/BOJ14171)|  |
 |18주차|PrefixSum|[BOJ1749](./cur_study/PrefixSum/BOJ1749)|[BOJ2559](./cur_study/PrefixSum/BOJ2559)|  |
-|19주차|복습주간|  |  |  |
+|19주차|복습주간|[Recursion] [BOJ16719](./cur_study/Recursion/BOJ16719)|[Hash] [BOJ25601](./cur_study/Hash/BOJ25601)|[PrefixSum] [BOJ25947](./cur_study/PrefixSum/BOJ25947)|
 
 <br>
 
@@ -62,6 +62,7 @@ Algorithm Study Group
 |2대 그룹장|박강현|
 |3대 그룹장|사석훈|
 |4대 그룹장|사석훈|
+|5대 그룹장|최이승우|
 
 ## 지각
 
