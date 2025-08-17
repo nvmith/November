@@ -27,6 +27,7 @@ Algorithm Study Group
 |18주차|PrefixSum|[BOJ1749](./cur_study/PrefixSum/BOJ1749)|[BOJ2559](./cur_study/PrefixSum/BOJ2559)|  |
 |19주차|복습주간|[Recursion] [BOJ16719](./cur_study/Recursion/BOJ16719)|[Hash] [BOJ25601](./cur_study/Hash/BOJ25601)|[PrefixSum] [BOJ25947](./cur_study/PrefixSum/BOJ25947)|
 |20주차|Mathematics|[BOJ1500](./cur_study/Mathematics/BOJ1500)|[BOJ2502](./cur_study/Mathematics/BOJ2502)|[BOJ1011](./cur_study/Mathematics/BOJ1011)  |
+|21주차|Greedy|[BOJ1911](./cur_study/Greedy/BOJ1911)|[BOJ11497](./cur_study/Greedy/BOJ11497)||
 
 <br>
 
