@@ -2,7 +2,6 @@ import sys
 input = sys.stdin.readline
 
 t = int(input())
-
 for _ in range(t):
     n = int(input())
     logs = sorted(list(map(int, input().split())))
@@ -13,3 +12,4 @@ for _ in range(t):
         max_diff = max(max_diff, diff)
             
     print(max_diff)
+
