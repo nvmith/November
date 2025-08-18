@@ -54,9 +54,12 @@ if ($typeSel -eq "1") {
   $algoDir = Join-Path $curBase $algo
   if (-not (Test-Path $algoDir)) { Write-Host "⚠ 폴더 없음: $algoDir" -ForegroundColor Yellow; pause; exit }
 
-  # 해당 알고리즘 폴더의 문제 폴더명 최신 3개 자동 선택
+  # 해당 알고리즘 폴더의 문제 폴더명 최신 3개 자동 선택 (선정은 그대로)
   $probs = Get-ChildItem -Path $algoDir -Directory | Sort-Object LastWriteTime -Descending | Select-Object -First 3
   if (-not $probs){ Write-Host "⚠ 해당 알고리즘 폴더 내 문제 폴더가 없습니다." -ForegroundColor Yellow; pause; exit }
+
+  # 리드미에 적히는 순서만 '먼저 만들어진 폴더 먼저'로 정렬
+  $ordered = $probs | Sort-Object CreationTime
 
   $division = $algo
   $lines = (EnsureRow -Lines $lines -Week $week -Division $division)
@@ -69,13 +72,13 @@ if ($typeSel -eq "1") {
 
   $cells[1] = $week
   $cells[2] = $division
-  $cells[3] = "[{0}](./cur_study/{1}/{0})" -f $probs[0].Name, (UrlAlgo $algo)
-  $cells[4] = if ($probs.Count -ge 2){ "[{0}](./cur_study/{1}/{0})" -f $probs[1].Name, (UrlAlgo $algo) } else { "" }
-  $cells[5] = if ($probs.Count -ge 3){ "[{0}](./cur_study/{1}/{0})" -f $probs[2].Name, (UrlAlgo $algo) } else { "" }
+  $cells[3] = "[{0}](./cur_study/{1}/{0})" -f $ordered[0].Name, (UrlAlgo $algo)
+  $cells[4] = if ($ordered.Count -ge 2){ "[{0}](./cur_study/{1}/{0})" -f $ordered[1].Name, (UrlAlgo $algo) } else { "" }
+  $cells[5] = if ($ordered.Count -ge 3){ "[{0}](./cur_study/{1}/{0})" -f $ordered[2].Name, (UrlAlgo $algo) } else { "" }
 
   $lines[$ri] = "|" + ($cells[1..5] -join "|") + "|"
   [IO.File]::WriteAllText($readme, ($lines -join [Environment]::NewLine), (New-Object Text.UTF8Encoding($false)))
-  Write-Host ("완료: {0} / {1} 행 삽입(자동 최신 3개)" -f $week,$division) -ForegroundColor Green
+  Write-Host ("완료: {0} / {1} 행 삽입(자동 최신 3개, 표기 순서는 생성순)" -f $week,$division) -ForegroundColor Green
   pause
   exit
 }
@@ -106,7 +109,7 @@ while ($cells.Count -lt 7) { $cells += "" }
 
 $outs = @("","","")
 for($i=0; $i -lt [Math]::Min(3,$ids.Count); $i++){
-  $probId = $ids[$i]   # <-- $PID 충돌 회피 (변수명 변경)
+  $probId = $ids[$i]
   $algoFor = FindAlgoForProb -probId $probId
   if ($algoFor){
     $outs[$i] = "[{0}] [{1}](./cur_study/{2}/{1})" -f $algoFor,$probId,(UrlAlgo $algoFor)
