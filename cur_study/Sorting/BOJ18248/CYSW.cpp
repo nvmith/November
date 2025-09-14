@@ -10,22 +10,32 @@ int main()
     int n, m;
     cin >> n >> m;
 
-    vector<vector<int>> a(n, vector<int>(m));
-    for (int i=0; i<n; i++)
-        for (int j=0; j<m; j++)
-            cin >> a[i][j];
-
+    vector<vector<int>> bell(n, vector<int>(m));
     for(int i=0; i<n; i++)
+        for(int j=0; j<m; j++)
+            cin >> bell[i][j];
+
+    if(n == 1 || m == 1)
     {
-        for(int j=i+1; j<n; j++)
+        cout << "YES";
+        return 0;
+    }
+
+    sort(bell.begin(), bell.end(), [&](vector<int>& a, vector<int>& b) 
+    {
+        for(int c=0; c<m; c++) 
         {
-            bool i_more = false, j_more = false;
-            for(int c=0; c<m; c++)
-            {
-                if (a[i][c] == 1 && a[j][c] == 0) i_more = true;
-                if (a[i][c] == 0 && a[j][c] == 1) j_more = true;
-            }
-            if(i_more && j_more)
+            if (a[c] != b[c]) 
+                return a[c] > b[c];
+        }
+        return false;
+    });
+
+    for(int c=0; c<m; c++)
+    {
+        for(int i=1; i<n; i++)
+        {
+            if (bell[i-1][c] < bell[i][c])
             {
                 cout << "NO";
                 return 0;
