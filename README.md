@@ -31,6 +31,7 @@ Algorithm Study Group
 |22주차|GameTheory|[BOJ32871](./cur_study/GameTheory/BOJ32871)|[BOJ9660](./cur_study/GameTheory/BOJ9660)||
 |23주차|복습주간|[Mathematics] [BOJ2023](./cur_study/Mathematics/BOJ2023)|[Greedy] [BOJ2212](./cur_study/Greedy/BOJ2212)|[GameTheory] [BOJ30641](./cur_study/GameTheory/BOJ30641)|
 |24주차|DynamicProgramming|[BOJ17212](./cur_study/DynamicProgramming/BOJ17212)|[BOJ1932](./cur_study/DynamicProgramming/BOJ1932)||
+|25주차|Sorting|[BOJ1431](./cur_study/Sorting/BOJ1431)|[BOJ18248](./cur_study/Sorting/BOJ18248)|[BOJ25391](./cur_study/Sorting/BOJ25391)|
 
 <br>
 
