@@ -1,23 +1,15 @@
-import sys
-input = sys.stdin.readline
-
 n, k = map(int, input().split())
-caffein = list(map(int,input().split()))
-
-if k in caffein:
+coffee = list(map(int, input().split()))
+if k in coffee:
     print(1)
-elif sum(caffein) < k:
+    exit()
+if sum(coffee) < k:
     print(-1)
-else:    
-    dp = [100001] * (k+1)
-    dp[0] = 0
-    
-    for i in caffein:
-        for j in range(k, i-1, -1):
-            if dp[j-i] != 100001:
-                dp[j] = min(dp[j], dp[j-i]+1)
-    
-    if dp[k] == 100001:
-        print(-1)
-    else:
-        print(dp[k])
+    exit()
+MAX = k+1
+dp = [MAX for _ in range(k+1)]
+dp[0] = 0
+for i in coffee:
+    for j in range(k, i-1, -1):
+        dp[j] = min(dp[j], dp[j - i] + 1)
+print(dp[k] if dp[k] != MAX else -1)
