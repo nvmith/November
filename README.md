@@ -33,6 +33,7 @@ Algorithm Study Group
 |24주차|DynamicProgramming|[BOJ17212](./cur_study/DynamicProgramming/BOJ17212)|[BOJ1932](./cur_study/DynamicProgramming/BOJ1932)||
 |25주차|Sorting|[BOJ1431](./cur_study/Sorting/BOJ1431)|[BOJ18248](./cur_study/Sorting/BOJ18248)|[BOJ25391](./cur_study/Sorting/BOJ25391)|
 |26주차|Combinatorics|[BOJ17213](./cur_study/Combinatorics/BOJ17213)|[BOJ26524](./cur_study/Combinatorics/BOJ26524)|[BOJ13707](./cur_study/Combinatorics/BOJ13707)|
+|27주차|복습주간|[DynamicProgramming] [BOJ22115](./cur_study/DynamicProgramming/BOJ22115)|[Sorting] [BOJ1083](./cur_study/Sorting/BOJ1083)|[Combinatorics] [BOJ25345](./cur_study/Combinatorics/BOJ25345)|
 
 <br>
 
